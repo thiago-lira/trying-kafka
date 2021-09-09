@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTu9dUUKlAam8dq9q0Em3hqxpANTbozpzTzLGqadocuZc1U9q1GGfsiipp5GJQpkn7uB8oEn5FPCuttfsYl9CQ==",
+  "success": true,
+  "projectFilePath": "/Users/thiagolira/Developer/estudos/csharp/Kafka/Kafka/Kafka.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiagolira/.nuget/packages/confluent.kafka/1.7.0/confluent.kafka.1.7.0.nupkg.sha512",
+    "/Users/thiagolira/.nuget/packages/librdkafka.redist/1.7.0/librdkafka.redist.1.7.0.nupkg.sha512",
+    "/Users/thiagolira/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
